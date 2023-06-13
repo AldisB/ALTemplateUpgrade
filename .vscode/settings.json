@@ -1,0 +1,8 @@
+{
+    "al.assemblyProbingPaths":  [
+                                    "./.netpackages",
+                                    "c:\\DLLs\\EFFO\\.netpackages"
+                                ],
+                                "xliffSync.baseFile": "translation.en-US.xlf",
+                                "al-test-runner.sendDebugTelemetry": false
+}
